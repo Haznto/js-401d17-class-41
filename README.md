@@ -11,7 +11,6 @@ The App Link:
 
 Video Trial:
 
-<video width="320" height="240" controls>
-  <source src="./assets/video_2023-10-01_18-57-12.mp4" type="video/mp4">
-  The video
-</video>
+
+https://github.com/Haznto/js-401d17-class-41/assets/81632438/92ba2420-8298-4da3-a562-a20be2bcc573
+
