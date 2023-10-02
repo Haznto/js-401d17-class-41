@@ -14,3 +14,13 @@ Video Trial:
 
 https://github.com/Haznto/js-401d17-class-41/assets/81632438/92ba2420-8298-4da3-a562-a20be2bcc573
 
+
+
+## React Native simple application, Lab 42 (Phase 2)
+2nd phase App link:
+<https://snack.expo.dev/@haznto/cameraapp>
+
+
+
+https://github.com/Haznto/js-401d17-class-41/assets/81632438/4e95f5af-8261-4bc4-a0e9-59047bd7c589
+
